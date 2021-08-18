@@ -1,6 +1,8 @@
 # hng-frontend-portfolio
 
 ![HNG PORTFOLIO](preview.png?raw=true "HNG PORTFOLIO")
+
+![HNG PORTFOLIO](logo-preview.png?raw=true "HNG PORTFOLIO")
 <!-- ![HNG PORTFOLIO](responsive-preview.png?raw=true "HNG PORTFOLIO") -->
 
 <a href="https://jovial-gates-85c4db.netlify.app/">FRONTEND LIVE</a>
