@@ -1,7 +1,7 @@
 (function () {
   "use strict"; // Start of use strict
 
-  AOS.init();
+  // AOS.init();
   const splash = document.querySelector(".splash");
   document.addEventListener("DOMContentLoaded", (e) => {
     setTimeout(() => {
@@ -12,7 +12,7 @@
 
   let labels = ['Home', 'About', 'Projects'];
   let swiper = new Swiper(".mySwiper", {
-    spaceBetween: 50,
+    spaceBetween: 0,
     allowTouchMove: false,
     pagination: {
       el: '.swiper-pagination-1',

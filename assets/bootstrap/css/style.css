@@ -136,16 +136,18 @@ body {
     justify-content: center;
     align-items: center;
     display: flex;
+    flex-direction: column;
     z-index: 1050;
     background-color: #000;
     transition: all ease-in-out 0.8s;
     opacity: 1;
 }
-.splash img {
+.splash .logo {
     transform: scale(1);
     border: 10px solid white;
     border-radius: 15px;
     animation: pulse 1s infinite;
+    margin-bottom: 50px;
 }
 .splash.hide {
     opacity: 0;
